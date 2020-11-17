@@ -1,0 +1,10 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.10/tailwind.min.css";
+
+#all {
+    margin: 40px 80px;
+}
+
+.text {
+    height: 30em;
+    background-color: rgba(202, 118, 202, .1);
+}
